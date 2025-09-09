@@ -62,17 +62,17 @@ This document provides a comparative analysis of VR headsets, focusing on Meta Q
 A virtual reality (VR) headset is a wearable device that immerses users in a computer-generated environment by combining visual, auditory, and motion-tracking technologies. Most modern headsets include high-resolution displays, inside-out tracking cameras, and ergonomic controllers that allow for natural interaction. They are designed to deliver experiences ranging from gaming and entertainment to education, training, and professional applications. Differences between models often come down to factors like display quality, comfort, processing power, and price, which determine the overall level of immersion and usability.
 
 ### 📌 Meta Quest 2 
-<img src="images/meta-quest-2-logo.png" alt="Meta Quest 2 Screenshot" width="600">
+<img src="Images/meta-quest-2-logo.png" alt="Meta Quest 2 Screenshot" width="600">
 
 The Meta Quest 2, released in 2020, is a standalone VR headset designed for accessibility and affordability. It offers a sharp LCD display, inside-out tracking, and lightweight design, making it one of the most popular headsets for both newcomers and casual gamers. With a vast content library and no need for external sensors or a PC, it provides an easy entry point into VR, though its processing power and passthrough features are limited compared to newer models.
 
 ### 📌 Meta Quest 3 
-<img src="images/downloadq3.png" alt="Meta Quest 3 Screenshot" width="600">
+<img src="Images/downloadq3.png" alt="Meta Quest 3 Screenshot" width="600">
 
 Launched in 2023, the Meta Quest 3 builds on its predecessor with significant upgrades in display clarity, performance, and mixed reality capabilities. It features pancake lenses for slimmer optics, higher resolution, and improved color passthrough, allowing for more immersive VR and AR experiences. Powered by the Snapdragon XR2 Gen 2, it delivers faster performance and enhanced graphics while remaining wireless and user-friendly. The Quest 3 strikes a balance between affordability and cutting-edge features, appealing to both gamers and developers.
 
 ### 📌 Meta Quest Pro (Discontinued)
-<img src="images/quest-pro-reitred.png" alt="Meta Quest pro Screenshot" width="600">
+<img src="Images/quest-pro-reitred.png" alt="Meta Quest pro Screenshot" width="600">
 
 The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targeting professionals, creators, and enterprise users. It incorporates advanced features such as eye and face tracking, premium pancake lenses, higher-quality mixed reality passthrough, and a more ergonomic design with improved weight distribution. The Quest Pro emphasizes productivity and collaboration in VR/AR settings, with apps supporting design, remote work, and creative workflows. While more expensive, it offers a glimpse into the future of immersive computing beyond gaming.
 
