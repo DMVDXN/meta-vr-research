@@ -111,25 +111,26 @@ This document provides a comparative analysis of VR headsets, focusing on Meta Q
 A virtual reality (VR) headset is a wearable device that immerses users in a computer-generated environment by combining visual, auditory, and motion-tracking technologies. Most modern headsets include high-resolution displays, inside-out tracking cameras, and ergonomic controllers that allow for natural interaction. They are designed to deliver experiences ranging from gaming and entertainment to education, training, and professional applications. Differences between models often come down to factors like display quality, comfort, processing power, and price, which determine the overall level of immersion and usability.
 ---
 ### 📌 Meta Quest 2 
-<img src="Images/meta-quest-2-logo.png" alt="Meta Quest 2 Screenshot" width="600">
-
-[![Video 1](https://img.youtube.com/vi/ATVGl9wOJsM/0.jpg)](https://youtu.be/ATVGl9wOJsM?si=UkcIhtNdpmT6RjsZ)
+| Image | Video |
+|---|---|
+| <img src="Images/meta-quest-2-logo.png" alt="Meta Quest 2 Screenshot" width="600"> | <a href="https://youtu.be/ATVGl9wOJsM?si=UkcIhtNdpmT6RjsZ"><img src="https://img.youtube.com/vi/ATVGl9wOJsM/maxresdefault.jpg" alt="Video 1 Thumbnail" width="600"></a> |
 
 The Meta Quest 2, released in 2020, is a standalone VR headset designed for accessibility and affordability. It offers a sharp LCD display, inside-out tracking, and lightweight design, making it one of the most popular headsets for both newcomers and casual gamers. With a vast content library and no need for external sensors or a PC, it provides an easy entry point into VR, though its processing power and passthrough features are limited compared to newer models.
 
 ---
 ### 📌 Meta Quest 3 
-<img src="Images/downloadq3.png" alt="Meta Quest 3 Screenshot" width="600">
-
-[![Video 2](https://img.youtube.com/vi/Exu7r2vZpcw/0.jpg)](https://youtu.be/Exu7r2vZpcw?si=KaLGH24XNQZ-LbLk)
+| Image | Video |
+|---|---|
+| <img src="Images/downloadq3.png" alt="Meta Quest 3 Screenshot" width="600"> | <a href="https://youtu.be/Exu7r2vZpcw?si=KaLGH24XNQZ-LbLk"><img src="https://img.youtube.com/vi/Exu7r2vZpcw/maxresdefault.jpg" alt="Video 2 Thumbnail" width="600"></a> |
+This keeps the same width, style, and clickable thumbnail behavior as your Quest 2 row. 
 
 Launched in 2023, the Meta Quest 3 builds on its predecessor with significant upgrades in display clarity, performance, and mixed reality capabilities. It features pancake lenses for slimmer optics, higher resolution, and improved color passthrough, allowing for more immersive VR and AR experiences. Powered by the Snapdragon XR2 Gen 2, it delivers faster performance and enhanced graphics while remaining wireless and user-friendly. The Quest 3 strikes a balance between affordability and cutting-edge features, appealing to both gamers and developers.
 
 ---
 ### 📌 Meta Quest Pro (Discontinued)
-<img src="Images/quest-pro-reitred.png" alt="Meta Quest pro Screenshot" width="600">
-
-[![Video 3](https://img.youtube.com/vi/7UvfmvMU3Vc/0.jpg)](https://youtu.be/7UvfmvMU3Vc?si=IunWXY-eNvuQQpzS)
+| Image | Video |
+|---|---|
+| <img src="Images/quest-pro-reitred.png" alt="Meta Quest Pro Screenshot" width="600"> | <a href="https://youtu.be/7UvfmvMU3Vc?si=IunWXY-eNvuQQpzS"><img src="https://img.youtube.com/vi/7UvfmvMU3Vc/maxresdefault.jpg" alt="Video 3 Thumbnail" width="600"></a> |
 
 The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targeting professionals, creators, and enterprise users. It incorporates advanced features such as eye and face tracking, premium pancake lenses, higher-quality mixed reality passthrough, and a more ergonomic design with improved weight distribution. The Quest Pro emphasizes productivity and collaboration in VR/AR settings, with apps supporting design, remote work, and creative workflows. While more expensive, it offers a glimpse into the future of immersive computing beyond gaming.
 
@@ -138,51 +139,183 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ## Hardware Specifications
 
 ### Display & Resolution 
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Resolution per Eye | 1832 x 1920 pixels | 2064 x 2208 pixels | 1800 x 1920 pixels |
+| Panel Type | LCD | LCD | LCD |
+| Notes | uses single-panel LCD display | uses a dual LCD display | uses two LCD displays, one for each eye, with quantum dot technology and a local dimming backlight to enhance image quality and color. The headset also features next-generation pancake lenses, which contribute to a sharper and more uniformly in-focus image compared to previous models.  |
+
+---
+
 ### Processing Power & Graphics 
-### Tracking & Sensors
-### Controllers & Input Methods
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Processor | Qualcomm Snapdragon XR2 | Qualcomm Snapdragon XR2 Gen 2 | Qualcomm Snapdragon XR2+ |
+| RAM | 6GB of LPDDR4X RAM | 8 GB of LPDDR5 RAM | 12GB LPDDR5 RAM |
+| GPU Features |  | Full-color passthrough for mixed reality applications. | The XR2+ processor is a more powerful version of the Snapdragon XR2 chip found in the Quest 2, delivering 50% more power. |
+
+---
+
+### Tracking & Sensors  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Cameras |  |  |  |
+| Extra Sensors |  |  |  |
+| Notes |  |  |  |
+
+---
+
+### Controllers & Input Methods  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Controllers |  |  |  |
+| Hand Tracking |  |  |  |
+| Notes |  |  |  |
 
 ---
 
 ## Design & Comfort
 
-### Weight & Ergonomics 
-### Strap & Padding 
-### Lens Adjustability
+### Weight & Ergonomics  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Weight | 503 grams (1.11 pounds) | 515 grams (1.13 pounds) | 722 grams (1.6 pounds) |
+| Balance |  |  |  |
+
+---
+
+### Strap & Padding  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Strap Type |  |  |  |
+| Comfort |  |  |  |
+
+---
+
+### Lens Adjustability  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| IPD Adjustment |  |  |  |
+| Method |  |  |  |
 
 ---
 
 ## Immersion & Experience
 
-### Field of View
-### Refresh Rate 
-### Passthrough & Mixed Reality 
-### Audio & Haptics 
+### Field of View  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Horizontal FOV | 90-100 degrees | 110 degrees | 106-108 degrees |
+| Vertical FOV | 90-100 degrees | 96 degrees | 98 degrees |
 
 ---
 
+### Refresh Rate  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Supported Rates | 60Hz, 72Hz, 80Hz, 90Hz, and 120Hz | 72Hz, 90Hz, and 120Hz | 72 Hz, and 90 Hz |
+
+---
+
+### Passthrough & Mixed Reality  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Passthrough Type |  |  |  |
+| Quality |  |  |  |
+
+---
+
+### Audio & Haptics  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Audio |  |  |  |
+| Haptics |  |  |  |
+
+--- 
+
 ## Performance & Usability
 
-### Setup & Ease of Use 
-### Battery Life 
-### Software Ecosystem 
-### Connectivity & Compatibility
+### Setup & Ease of Use  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Setup |  |  |  |
+| Notes |  |  |  |
+
+---
+
+### Battery Life  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Headset Battery |  |  |  |
+| Controller Battery |  |  |  |
+
+---
+
+### Software Ecosystem  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Store Access |  |  |  |
+| Exclusive Features |  |  |  |
+
+---
+
+### Connectivity & Compatibility  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| PC VR Support |  |  |  |
+| Extras |  |  |  |
 
 ---
 
 ## Use Cases
 
-### Gaming & Entertainment
-### Education & Training 
-### Professional & Enterprise Applications
+### Gaming & Entertainment  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Gaming Experience |  |  |  |
+
+---
+
+### Education & Training  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Usefulness |  |  |  |
+
+---
+
+### Professional & Enterprise Applications  
+| Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
+|---------|--------------|--------------|----------------|
+| Suitability |  |  |  |
 
 ---
 
 ## Comparative Analysis
 
-### Strengths & Weaknesses
+### Strengths & Weaknesses  
+| Device | Strengths | Weaknesses |
+|--------|-----------|------------|
+| Meta Quest 2 |  |  |
+| Meta Quest 3 |  |  |
+| Meta Quest Pro |  |  |
+
+---
+
 ### Price-to-Performance Ratio  
-### Best Use Scenarios
+| Device | Value Rating | Notes |
+|--------|--------------|-------|
+| Meta Quest 2 |  |  |
+| Meta Quest 3 |  |  |
+| Meta Quest Pro |  |  |
+
+---
+
+### Best Use Scenarios  
+| Device | Best For | Notes |
+|--------|----------|-------|
+| Meta Quest 2 |  |  |
+| Meta Quest 3 |  |  |
+| Meta Quest Pro |  |  |
 
 ---
 
