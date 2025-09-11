@@ -122,7 +122,6 @@ The Meta Quest 2, released in 2020, is a standalone VR headset designed for acce
 | Image | Video |
 |---|---|
 | <img src="Images/downloadq3.png" alt="Meta Quest 3 Screenshot" width="600"> | <a href="https://youtu.be/Exu7r2vZpcw?si=KaLGH24XNQZ-LbLk"><img src="https://img.youtube.com/vi/Exu7r2vZpcw/maxresdefault.jpg" alt="Video 2 Thumbnail" width="600"></a> |
-This keeps the same width, style, and clickable thumbnail behavior as your Quest 2 row. 
 
 Launched in 2023, the Meta Quest 3 builds on its predecessor with significant upgrades in display clarity, performance, and mixed reality capabilities. It features pancake lenses for slimmer optics, higher resolution, and improved color passthrough, allowing for more immersive VR and AR experiences. Powered by the Snapdragon XR2 Gen 2, it delivers faster performance and enhanced graphics while remaining wireless and user-friendly. The Quest 3 strikes a balance between affordability and cutting-edge features, appealing to both gamers and developers.
 
@@ -159,9 +158,9 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Tracking & Sensors  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Cameras |  |  |  |
-| Extra Sensors |  |  |  |
-| Notes |  |  |  |
+| Cameras | 4 standard infrared tracking cameras, black-and-white passthrough. | 2 RGB color cameras for full-color passthrough and 2 infrared tracking cameras. A depth projector is also included. | 5 external high-resolution, full-color cameras and 5 internal cameras (including infrared) for eye and face tracking. |
+| Extra Sensors | No extra internal sensors. | A depth sensor is used for more accurate mixed reality experiences, such as automatic room mapping. | Internal infrared sensors for eye and face tracking. |
+| Notes | Head and hand tracking: Relies on external cameras for 6DoF tracking, including positional and rotational movement.<br><br>Hand tracking: Basic hand tracking is available, but overall movement tracking is less precise than later models.<br><br>Full-body tracking: Does not natively support full-body tracking. Requires third-party software and external hardware.<br><br>Passthrough: Low-resolution, grainy, black-and-white. | Upper-body tracking: Features "inside-out body tracking" that uses side cameras and AI to estimate upper-body and arm movements.<br><br>Full-body tracking: Combined with "generative legs" (AI-estimated motion) and third-party software, it can provide decent full-body emulation.<br><br>Advanced hand tracking: Uses a combination of cameras and machine learning for more responsive, gesture-based interactions.<br><br>Enhanced passthrough: High-resolution, full-color passthrough enables mixed-reality experiences. | Eye tracking: Inward-facing sensors track eye movement to make avatars more lifelike and to enable foveated rendering, which sharpens graphics where you look.<br><br>Face tracking: Sensors track your facial expressions, like mouth, cheek, and eyebrow movements, and replicate them on your avatar.<br><br>Self-tracking controllers: The Touch Pro controllers have their own built-in cameras and processor for independent tracking, providing a larger, more stable tracking range. |
 
 ---
 
@@ -246,8 +245,8 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Battery Life  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Headset Battery |  |  |  |
-| Controller Battery |  |  |  |
+| Headset Battery | 3640 mAh | 4880 mAh | 4500 mAh |
+| Controller Battery | 3000 mAh | 3000 mAh | **Uses rechargable battery, no published mAh amount bot reports state about 8 hours of battery life** |
 
 ---
 
