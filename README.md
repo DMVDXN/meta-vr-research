@@ -167,9 +167,11 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Controllers & Input Methods  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Controllers |  |  |  |
-| Hand Tracking |  |  |  |
-| Notes |  |  |  |
+| Controllers | **Touch Controllers:** Features large tracking rings for positional tracking via the headset's external cameras.<br><br>Powered by a single AA battery per controller.<br><br>Has basic haptic feedback. | **Touch Plus Controllers:** No external tracking rings, allowing for a more compact and ergonomic design.<br><br>Tracking is managed by infrared LEDs hidden within the controller body and improved computer vision.<br><br>Features enhanced "TruTouch" variable haptics, similar to the Quest Pro.<br><br>Powered by a single AA battery per controller. | **Touch Pro Controllers:** Features advanced inside-out tracking with three built-in cameras and a Snapdragon 662 processor, allowing for 360-degree tracking independent of the headset.<br><br>Includes an integrated, rechargeable battery with an included charging dock.<br><br>Provides the most advanced "TruTouch" haptics.<br><br>Can be used with the Quest 2 and Quest 3. |
+| Hand Tracking | **Supported:** Allows for direct interaction with menus and supported applications using hand gestures instead of controllers.<br><br>Tracking is handled by the headset's cameras, providing a basic, yet functional experience. | **Supported (Improved):** Offers more precise and reliable hand tracking than the Quest 2.<br><br>Features include "Direct Touch," which allows you to tap and scroll on virtual panels with your fingers, providing a more intuitive, tablet-like experience. | **Supported (Premium):** Combines the headset's cameras with the controllers' built-in cameras to provide the most precise and reliable hand-tracking experience across the platform. |
+| Notes | The standard entry point for Meta Quest users, offering reliable performance for most VR applications. The external tracking rings can sometimes get in the way during close-quarters movements. | A significant upgrade to the user experience with its sleeker design and better haptics. The improved tracking allows for more natural interactions without the bulk of the tracking rings. | The premium option for users who require the highest level of tracking accuracy and haptic feedback. This includes professionals and enthusiasts who perform precise tasks or want the best performance in fast-paced games. The self-tracking controllers eliminate potential blind spots. |
+
+[Meta Quest Controller Support Article](https://www.meta.com/help/quest/319955616241256/?srsltid=AfmBOopmf_68gX2NwFE-viYGhMy8sNgChxaH7EjTGk9wHFJ05FgDSwDH)
 
 ---
 
@@ -179,23 +181,28 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
 | Weight | 503 grams (1.11 pounds) | 515 grams (1.13 pounds) | 722 grams (1.6 pounds) |
-| Balance |  |  |  |
+| Balance | **Heavily front-loaded:** Places significant pressure on the face and cheeks due to the simple elastic head strap.<br><br>Many users add a counterweight, like a portable battery pack, to the back of the strap for improved comfort. | **Better balanced:** The weight is slightly heavier than the Quest 2, but the headset is 40% slimmer.<br><br>This moves the center of gravity closer to the face, making it feel more balanced and lighter in practice. | **Evenly distributed:** The weight is distributed evenly between the front and back thanks to its "halo" strap design and a battery mounted on the rear.<br><br>This places pressure on the forehead instead of the face, making it feel more comfortable for extended use. |
+| Head Strap | **Simple elastic strap:** Soft, minimal padding, and not very supportive.<br><br>Many users purchase a separate, more rigid "Elite" strap to improve comfort and balance. | **Soft adjustable strap:** Includes a soft adjustable strap by default.<br><br>A rigid "Elite" strap is available separately for improved support and comfort. | **Rigid halo strap:** Features a built-in rigid "halo" strap with a fit adjustment wheel for a more secure and balanced fit. |
+| Adjustment | Basic strap adjustments. | Features a depth adjustment mechanism, allowing the lenses to be moved closer or farther from your face. | Includes continuous IPD (interpupillary distance) and eye-relief adjustments for precise customization. |
+| Notes | Least comfortable due to front-heavy design. Upgrading the strap is highly recommended for extended use. | More comfortable than the Quest 2 out of the box due to a better weight distribution and slimmer profile. | Most comfortable for long sessions, despite being the heaviest, because of its superior "halo" design that shifts weight off the face. |
 
 ---
 
 ### Strap & Padding  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Strap Type |  |  |  |
-| Comfort |  |  |  |
+| Strap Type | Flexible, soft cloth strap with an adjustable fabric top band. | Flexible, soft fabric strap with a new split-back design. | Rigid halo strap with a padded counterweight at the back of the head. |
+| Comfort | Low: The stock strap is the least comfortable of the three. It is widely considered a low-quality solution that places significant pressure on the face. For extended sessions, most users purchase a more comfortable aftermarket strap, such as an Elite or Halo strap. | Medium: The stock strap's new split-back design is a slight improvement over the Quest 2's but is still prone to loosening and doesn't provide significant weight distribution. It is suitable for short, casual play, but many users will still want an upgrade for extended sessions. | High: The default strap is exceptionally comfortable and ergonomic due to its rigid frame and rear padding. It is designed to distribute the headset's weight evenly across the forehead and back of the head, relieving pressure from the face. |
+| Other Considerations | Upgrade recommended. An aftermarket strap is generally required for most users to have a comfortable experience for more than 15–30 minutes. | Upgrade recommended for long sessions. For extended or active gameplay, a third-party strap is a popular upgrade to improve stability and weight distribution. | Excellent out of the box. The Pro's strap is a key part of its premium design and does not require an aftermarket upgrade for comfort. |
 
 ---
 
 ### Lens Adjustability  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| IPD Adjustment |  |  |  |
-| Method |  |  |  |
+| IPD Adjustment Method | Three preset physical positions that the user can manually click into by pushing and pulling the lenses. Users can also try to place the lenses in between the preset positions for a more precise fit. | A continuous IPD adjustment wheel on the bottom left of the headset, allowing for precise, millimeter-based tuning while you are wearing the device. The adjusted IPD measurement is visible on-screen. | Continuous IPD adjustment, similar to the Quest 3, achieved by manually pushing the lenses together or pulling them apart. The headset's built-in eye-tracking technology can also recommend the optimal lens spacing. |
+| IPD range | Three preset settings: 58mm, 63mm, and 68mm. Users can also set the lenses between presets for intermediate distances. | 53-75mm. | 58-72mm. |
+| Lens Distance Adjustment | Not available. Requires the use of a glasses spacer to increase the distance between the lenses and the user's eyes. | Eye-relief adjustment: Two buttons inside the facial interface allow you to move the lenses closer to or further from your eyes. | Depth wheel: A wheel on the headset lets you adjust the lens distance from your eyes while you are wearing the headset. |
 
 ---
 
@@ -219,8 +226,10 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Passthrough & Mixed Reality  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Passthrough Type |  |  |  |
-| Quality |  |  |  |
+| Passthrough Type | Grayscale, low-resolution | Full-color, high-resolution | Full-color, but with lower resolution and more visual artifacts than Quest 3 |
+| Passthrough Quality | Blurry, grainy, and primarily used for safety (e.g., setting up boundaries or checking surroundings). | Clear enough to read a phone, interact with objects, and have a more immersive mixed-reality experience. | Noticeably inferior to the Quest 3, with inconsistent color reproduction and warping. |
+| Cameras and Sensors | Primarily relies on four infrared cameras. | Uses two 4-megapixel RGB cameras and a dedicated depth sensor. | Relies on two tracking cameras and a 16-megapixel color camera for colorizing the feed. |
+| Mixed Reality Features | Limited mixed-reality support due to poor passthrough. | Robust mixed-reality capabilities thanks to the high-quality, full-color passthrough and depth sensor. | Mixed-reality is functional, but less realistic and visually impressive than on the Quest 3. |
 
 ---
 
