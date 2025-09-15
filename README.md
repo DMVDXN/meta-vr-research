@@ -241,7 +241,7 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 | Haptic Actuators | Uses Linear Resonant Actuators (LRAs) that vibrate at a fixed frequency, controlling only strength and resulting in a basic, less nuanced feel. | Features advanced TruTouch variable haptics using Voice Coil Motors (VCMs) that vibrate across a wide range (50–500Hz) for more realistic tactile effects. | Includes multi-point haptics with three haptic motors per controller (VCM in handle + LRAs in trigger and thumb rest) for the most localized and advanced feedback. |
 | Haptic Feedback Quality | Basic and loose compared to newer controllers. | Crisp, detailed, and realistic vibrations that are slightly less intense and localized than Quest Pro. | Highest-fidelity haptic feedback with realistic, textured, and highly localized effects. |
 | Controller Compatibility | Older controllers are not compatible with TruTouch haptics. | Uses Touch Plus controllers that are lighter and more comfortable than Quest 2 controllers. | Uses Touch Pro controllers with advanced haptics and tracking. Pro controllers work with Quest 2 and Quest 3. |
-| Developer Tools |  |  |  |
+| Developer Tools | Compatible with Meta Haptics SDK but limited to fixed vibration frequency. Developers must account for less advanced LRAs. | Uses Meta Haptics Studio + SDK to design high-quality haptics. Clips are backward-compatible but perform best on Quest 3 and Pro. | Uses Meta Haptics Studio + SDK to create advanced, localized haptics that leverage the Pro’s specialized motors. |
 
 --- 
 
@@ -250,8 +250,8 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Setup & Ease of Use  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Setup |  |  |  |
-| Notes |  |  |  |
+| Setup | The initial setup is guided through the Meta Horizon app on your phone. You must perform all headset adjustments and calibrations manually. | The setup process is largely the same as the Quest 2 but is enhanced by the headset's advanced sensors. This allows for automated floor and boundary setup after a quick scan. | Similar to the Quest 3, the initial setup is streamlined due to advanced tracking. The headset automatically guides you through headset fitting and adjusting for your eye distance (IPD). |
+| Notes | Supports basic hand-tracking for controller-free interaction but must be manually enabled. | Supports enhanced mixed reality and hand-tracking out of the box due to improved sensors, making it easy to switch between virtual and physical environments. | Includes built-in eye and face-tracking, which are configured during the initial setup and allow for more realistic and expressive avatar movements. |
 
 ---
 
@@ -291,7 +291,7 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Education & Training  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Usefulness |  |  |  |
+| Usefulness | affordable and widely supported, works well for classroom VR demos but has lower resolution and no full-color passthrough. | Very strong option – improved resolution, depth sensors, and full-color passthrough make mixed reality lessons more immersive and interactive. | Best for professional training – high-resolution optics, face/eye tracking for better social presence, and superior comfort make it ideal for corporate and high-end training programs. |
 
 ---
 
