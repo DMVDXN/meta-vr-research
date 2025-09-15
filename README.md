@@ -236,8 +236,12 @@ The Meta Quest Pro, introduced in 2022, is positioned as a high-end headset targ
 ### Audio & Haptics  
 | Feature | Meta Quest 2 | Meta Quest 3 | Meta Quest Pro |
 |---------|--------------|--------------|----------------|
-| Audio |  |  |  |
-| Haptics |  |  |  |
+| Integrated Speakers | Stereo speakers deliver basic 3D spatial audio. | Upgraded stereo speakers provide 3D spatial audio that is 40% louder with improved bass range and optimally matched audio quality. | Spatial audio system that delivers an immersive experience, considered comparable to Quest 3 in performance. |
+| 3.5mm Headset Jack | Yes | Yes | Yes |
+| Haptic Actuators | Uses Linear Resonant Actuators (LRAs) that vibrate at a fixed frequency, controlling only strength and resulting in a basic, less nuanced feel. | Features advanced TruTouch variable haptics using Voice Coil Motors (VCMs) that vibrate across a wide range (50–500Hz) for more realistic tactile effects. | Includes multi-point haptics with three haptic motors per controller (VCM in handle + LRAs in trigger and thumb rest) for the most localized and advanced feedback. |
+| Haptic Feedback Quality | Basic and loose compared to newer controllers. | Crisp, detailed, and realistic vibrations that are slightly less intense and localized than Quest Pro. | Highest-fidelity haptic feedback with realistic, textured, and highly localized effects. |
+| Controller Compatibility | Older controllers are not compatible with TruTouch haptics. | Uses Touch Plus controllers that are lighter and more comfortable than Quest 2 controllers. | Uses Touch Pro controllers with advanced haptics and tracking. Pro controllers work with Quest 2 and Quest 3. |
+| Developer Tools |  |  |  |
 
 --- 
 
